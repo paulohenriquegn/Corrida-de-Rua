@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Inscrição - Corrida de Rua</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f2f2f2;
+      margin: 0;
+      padding: 0;
+      text-align: center;
+    }
+    header {
+      background-color: #ffffff;
+      padding: 20px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    }
+    header img {
+      max-width: 100%;
+      height: auto;
+    }
+    iframe {
+      width: 100%;
+      height: 1800px;
+      border: none;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <img src="https://drive.google.com/uc?export=view&id=1abfZiHyJ2nSpJSEm37TipelyuWcOWJmp" alt="Corrida de Rua" />
+  </header>
+
+  <iframe 
+    src="https://docs.google.com/forms/d/e/1FAIpQLSdnZq0eZ2YdZ7N2ZHRBbDjcvQ6K9p9SKP9RWDdsMRi9E-rN3A/viewform?embedded=true"
+    loading="lazy"
+  >Carregando…</iframe>
+</body>
+</html>
